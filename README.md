@@ -3,8 +3,7 @@
 
   
 <p align="center">
-![1](https://user-images.githubusercontent.com/39672050/179054430-b880ce6d-036d-4972-bd17-5174dca5a293.png)
- 
+ <img src="https://user-images.githubusercontent.com/39672050/179054430-b880ce6d-036d-4972-bd17-5174dca5a293.png" alt="Ciphey">
 </p>
 
   
